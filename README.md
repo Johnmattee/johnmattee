@@ -12,8 +12,8 @@ I'm a passionate **Frontend Developer** with a background in biochemistry, curre
 ### Get in Touch!
 
 - 📧 **Email**: ajayitaiwojohnmatt@gmail.com
-- 🌐 **LinkedIn**: (https://www.linkedin.com/in/ajayi-john-dev/)
-- 🐦 **Twitter**:  [Twitter](https://twitter.com)
+- 🌐 **LinkedIn**: https://www.linkedin.com/in/ajayi-john-dev
+- 🐦 **Twitter**: https://twitter.com/ajayitaiwojohn1
 
 
 Feel free to check out my repositories and projects. I’m always open to collaboration and new opportunities!
